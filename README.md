@@ -4,7 +4,6 @@
 
 Hi, I'm ravend3v! I'm a passionate developer who loves building innovative solutions and exploring new technologies. Whether it's writing code, solving even challenging problems, or collaborating with others, I'm always eager to learn and grow. Welcome to my GitHub—feel free to check out my projects and connect!
 
-- 📫 How to reach me **ojalaelias05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
